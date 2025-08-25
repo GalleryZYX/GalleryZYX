@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GalleryZYX
 - 👀 I’m interested in coding though my major is Civial Engineer
-- 🚄 I'm in Tsinghua University, THU for short
+- 🚄 I'm in Tsinghua University
 
 <!---
 GalleryZYX/GalleryZYX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
